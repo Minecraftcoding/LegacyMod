@@ -1,0 +1,2 @@
+# LegacyMod
+Enchantability
